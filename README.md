@@ -1,8 +1,13 @@
 ## Mac常用的快捷键整理
 
-You can use the [editor on GitHub](https://github.com/boyzzy1995/boyzzy1995.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+首先我们来看一下Mac上的快捷键有哪些特殊符号
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Command（或 Cmd）⌘</br>
+Shift ⇧</br>
+Option（或 Alt）⌥</br>
+Control（或 Ctrl）⌃</br>
+Caps Lock ⇪</br>
+Fn</br>
 
 ### Markdown
 
